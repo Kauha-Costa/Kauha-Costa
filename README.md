@@ -27,7 +27,6 @@ Me chamo Kauhã de Costa, tenho 20 anos e sou natural do Rio Grande do Sul. Atua
 </div>
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 <p>
@@ -48,11 +47,6 @@ Me chamo Kauhã de Costa, tenho 20 anos e sou natural do Rio Grande do Sul. Atua
 
 </p>
 
-
----
-
-
-##
 
 
 
