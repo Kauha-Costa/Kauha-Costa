@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kauhã de Costa
+# 👨🏻‍💻 Kauhã de Costa
 
 **`Desenvolvedora FullStack`**
 
@@ -12,12 +12,9 @@ Me chamo Kauhã de Costa, tenho 20 anos e sou natural do Rio Grande do Sul. Atua
   
 </div>
 
-<div>
-  <a href="https://github.com/Kauha-Costa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauha-Costa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauha-Costa&layout=compact&langs_count=16&theme=dark"/>
-</div>
+---
 
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />      
@@ -28,6 +25,32 @@ Me chamo Kauhã de Costa, tenho 20 anos e sou natural do Rio Grande do Sul. Atua
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           
 </div>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Kauha-Costa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauha-Costa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+
+---
+
 
 ##
 
