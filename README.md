@@ -5,13 +5,6 @@
 Me chamo Kauhã de Costa, tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UPF em Passo Fundo. Estou começando minha carreira dentro da area da técnologia e estou muito motivado a aprender e crescer profissionalmente. Tenho interesse em desenvolvimento de software, programação e novas tecnologias. Estou sempre em busca de desafios que me permitam aprimorar minhas habilidades e contribuir para projetos inovadores.
 
 
-<div> 
-  <a href="https://www.instagram.com/kauha_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kauhaerickcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/kauhacosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
