@@ -1,22 +1,14 @@
 # 👨🏻‍💻 Kauhã de Costa
 
-**FullStack Developer**
+**Software Developer**
 
 Me chamo Kauhã de Costa, tenho 20 anos e sou natural do Rio Grande do Sul.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** na UPF e estou iniciando minha carreira na área de tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UPF e desenvolvedor em início de carreira, com experiência em projetos acadêmicos e profissionais.
 
-Tenho interesse em:
+Já atuei como estagiário na Compass.UOL e atualmente trabalho na StaraLabs, onde participo do desenvolvimento de soluções de software.
 
-- Desenvolvimento de software
-- Backend
-- Frontend
-- Cloud Computing
-- Novas tecnologias
-
-Estou sempre buscando evoluir como desenvolvedor e contribuir para projetos reais.
-
----
+Tenho interesse em desenvolvimento de sistemas, novas tecnologias e aprendizado contínuo. Busco constantemente evoluir minhas habilidades técnicas e contribuir para projetos reais.
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
