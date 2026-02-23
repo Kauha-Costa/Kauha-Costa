@@ -41,14 +41,3 @@ src="https://streak-stats.demolab.com?user=Kauha-Costa&theme=tokyonight"/>
 
 </p>
 
----
-
-### 📈 Atividade
-
-<p align="center">
-
-<img height="250em"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Kauha-Costa&theme=tokyo-night"/>
-
-</p>
-
