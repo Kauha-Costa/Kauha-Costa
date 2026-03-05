@@ -10,6 +10,9 @@ Já atuei como estagiário na Compass.UOL e atualmente trabalho na StaraLabs, on
 
 Tenho interesse em desenvolvimento de sistemas, novas tecnologias e aprendizado contínuo. Busco constantemente evoluir minhas habilidades técnicas e contribuir para projetos reais.
 
+🌐 Portfolio:
+  https://kauhacosta.netlify.app/
+
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   
